@@ -43,5 +43,9 @@ figure.main {
 }
 .sidebar {
   float: left;
-  width: 20%;
+  width: 50px;
+}
+
+.well {
+  border-radius: 0px;
 }
